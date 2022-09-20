@@ -24,7 +24,7 @@
             <td><a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRtsFgFGxQzkdrwpVcMMTbXnCVLgKhZprScwvWtrjKJlWfkQblhhrVVtKxcrHtLVmGSvsDb">
             <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
             </a></td>
-            <td><a href="https://wa.me/972502220406">
+            <td><a href="https://wa.me/972502220406?text=Hey, I saw your profile on github. what's up?">
             <img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"/>
             </a></td>
         </tr>
