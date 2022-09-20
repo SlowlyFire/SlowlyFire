@@ -32,11 +32,11 @@
 </table>
 
 
+&nbsp;
+&nbsp;
 
 
-
-
-**Programming Languages:**
+### **Programming Languages:**
 
 <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=70 src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"/><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 
