@@ -12,6 +12,9 @@
 <table>
     <tbody>
         <tr>
+            <td><a href="mailto:galgiladi1994@gmail.com">
+            <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
+            </a></td>
             <td><a href="https://www.facebook.com/gpgiladi">
             <img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />
             </a></td>
@@ -20,9 +23,6 @@
             </a></td>
             <td><a href="https://www.instagram.com/galgiladi1994/">
             <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
-            </a></td>
-            <td><a href="mailto:galgiladi1994@gmail.com">
-            <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
             </a></td>
             <td><a href="https://wa.me/972502220406?text=Hey, I saw your profile on github. what's up?">
             <img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"/>
