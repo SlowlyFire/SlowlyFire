@@ -31,9 +31,8 @@
     </tbody>
 </table>
 
+<br/><br/>
 
-&nbsp;
-&nbsp;
 
 
 ### **Programming Languages:**
