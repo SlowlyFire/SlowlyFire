@@ -32,14 +32,12 @@
 </table>
 
 <br/><br/>
+## Programming Languages: &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; My Activity:  
+&emsp;&emsp;<img height="170" src="https://user-images.githubusercontent.com/83518959/193435064-c4c91bf1-ddad-451e-b4b8-cca5e49638f5.png" /> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlowlyFire&layout=compact"/>   
 
-### **Programming Languages:**    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;                **My Activity:**                         
-<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> &emsp; <img height=70 src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"/>       
 
-<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> &emsp; <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/> 
-
- 
-
- 
-&emsp; &emsp; &emsp; &emsp; &emsp;   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlowlyFire&layout=compact"/>
+<!-- <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height=70 src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"/>
+<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>  -->
 
