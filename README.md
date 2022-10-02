@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - ✌️ My name is **Gal Giladi**, 28 years old, lives in Israel, Ramat-Gan.
 -  :guardsman: Military commander on reserves (Seren).
