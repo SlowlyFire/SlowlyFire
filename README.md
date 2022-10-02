@@ -32,7 +32,7 @@
 </table>
 
 <br/><br/>
-## Programming Languages: &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; My Activity:  
+## Programming Languages &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; My Activity  
 &emsp;&emsp;<img height="170" src="https://user-images.githubusercontent.com/83518959/193435064-c4c91bf1-ddad-451e-b4b8-cca5e49638f5.png" /> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlowlyFire&layout=compact"/>   
 
 
