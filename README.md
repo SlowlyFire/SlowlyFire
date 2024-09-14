@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ✌️ My name is **Gal Giladi**, 29 years old, lives in Israel, Ramat-Gan.
+- ✌️ My name is **Gal Giladi**, 30 years old, lives in Israel, Ramat-Gan.
 -  :guardsman: Military commander on reserves (Seren).
 - :books: I’m currently learning **Computer-Science in Bar-Ilan University, 3rd year**.
 - :muscle: Working at **Citi innovation lab TLV** as a security guard.
